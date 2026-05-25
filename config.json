@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdync",
+        "uuid": 1484508,
+        "checksum": "hxvn2m"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
